@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Score.spritefont</Source>
+      <Name>Fonts\SegoeWPBlack</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWPBlack.xnb</Output>
+      <Time>2010-12-02T00:36:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Paused.spritefont</Source>
+      <Name>Fonts\SegoeWP</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWP.xnb</Output>
+      <Time>2010-11-30T01:35:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Message.spritefont</Source>
+      <Name>Fonts\SegoeWPMessage</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWPMessage.xnb</Output>
+      <Time>2010-12-02T00:23:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Control.spritefont</Source>
+      <Name>Fonts\Control</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\Control.xnb</Output>
+      <Time>2010-12-19T15:10:11.4093789-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LaserBeam.png</Source>
+      <Name>Images\LaserBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\LaserBeam.xnb</Output>
+      <Time>2010-11-25T01:30:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\newball.png</Source>
+      <Name>Images\newball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\newball.xnb</Output>
+      <Time>2010-12-21T00:53:58.4614899-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NewBackground.png</Source>
+      <Name>Images\NewBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\NewBackground.xnb</Output>
+      <Time>2010-12-12T19:29:04.0618235-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MessageArea.png</Source>
+      <Name>Images\MessageArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\MessageArea.xnb</Output>
+      <Time>2010-11-27T10:06:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AquaBrick.png</Source>
+      <Name>Images\AquaBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\AquaBrick.xnb</Output>
+      <Time>2010-12-10T21:39:45.9892807-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BlueBrick.png</Source>
+      <Name>Images\BlueBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\BlueBrick.xnb</Output>
+      <Time>2010-12-10T21:40:19.4771961-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GlassBrick.png</Source>
+      <Name>Images\GlassBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\GlassBrick.xnb</Output>
+      <Time>2010-12-10T22:46:24.0815298-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GreenBrick.png</Source>
+      <Name>Images\GreenBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\GreenBrick.xnb</Output>
+      <Time>2010-12-10T22:46:10.4157482-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PaddleLarge.png</Source>
+      <Name>Images\PaddleLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PaddleLarge.xnb</Output>
+      <Time>2010-12-20T21:23:11.6171317-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PaddleNormal.png</Source>
+      <Name>Images\PaddleNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PaddleNormal.xnb</Output>
+      <Time>2010-12-20T21:22:26.65356-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PurpleBrick.png</Source>
+      <Name>Images\PurpleBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PurpleBrick.xnb</Output>
+      <Time>2010-12-10T21:43:29.9990933-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RedBrick.png</Source>
+      <Name>Images\RedBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\RedBrick.xnb</Output>
+      <Time>2010-12-10T21:43:17.1313573-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\StoneBrick.png</Source>
+      <Name>Images\StoneBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\StoneBrick.xnb</Output>
+      <Time>2010-12-10T21:43:08.5548668-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\YellowBrick.png</Source>
+      <Name>Images\YellowBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\YellowBrick.xnb</Output>
+      <Time>2010-12-10T21:41:38.2287004-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SplashScreen.png</Source>
+      <Name>Images\SplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SplashScreen.xnb</Output>
+      <Time>2010-12-16T00:06:16.617172-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ProgressBar.png</Source>
+      <Name>Images\ProgressBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\ProgressBar.xnb</Output>
+      <Time>2010-12-12T00:38:55.0526243-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuScreen.png</Source>
+      <Name>Images\MenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\MenuScreen.xnb</Output>
+      <Time>2010-12-24T12:00:30.2759293-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UserScreen.png</Source>
+      <Name>Images\UserScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\UserScreen.xnb</Output>
+      <Time>2010-12-17T20:53:59.9737832-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PauseScreen.png</Source>
+      <Name>Images\PauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PauseScreen.xnb</Output>
+      <Time>2010-12-24T00:04:57.2065545-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sparkle.png</Source>
+      <Name>Images\Sparkle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\Sparkle.xnb</Output>
+      <Time>2010-12-21T01:03:41.1088154-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SoundOff.png</Source>
+      <Name>Images\SoundOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SoundOff.xnb</Output>
+      <Time>2010-12-24T00:38:14.7438071-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SoundOn.png</Source>
+      <Name>Images\SoundOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SoundOn.xnb</Output>
+      <Time>2010-12-24T00:38:14.7458072-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button.png</Source>
+      <Name>Images\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\Button.xnb</Output>
+      <Time>2010-12-24T01:06:22.3983354-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\balllost3.wav</Source>
+      <Name>Sounds\balllost3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\balllost3.xnb</Output>
+      <Time>2010-12-16T22:05:16.6350159-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\LaserFiring.wav</Source>
+      <Name>Sounds\LaserFiring</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\LaserFiring.xnb</Output>
+      <Time>2010-12-16T22:07:35.315948-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PaddleHit.wav</Source>
+      <Name>Sounds\PaddleHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\PaddleHit.xnb</Output>
+      <Time>2010-12-23T22:10:26.7815887-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\WallHit.wav</Source>
+      <Name>Sounds\WallHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\WallHit.xnb</Output>
+      <Time>2010-12-23T22:13:40.9086921-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BrickBreak.wav</Source>
+      <Name>Sounds\BrickBreak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\BrickBreak.xnb</Output>
+      <Time>2010-12-23T22:10:24.5734624-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NextLevel.wav</Source>
+      <Name>Sounds\NextLevel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\NextLevel.xnb</Output>
+      <Time>2010-12-23T20:56:02.8552667-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Special.wav</Source>
+      <Name>Sounds\Special</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\Special.xnb</Output>
+      <Time>2010-12-23T22:26:07.2333794-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BrickHit.wav</Source>
+      <Name>Sounds\BrickHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\BrickHit.xnb</Output>
+      <Time>2010-12-23T22:10:26.0795485-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SpecialEnd.wav</Source>
+      <Name>Sounds\SpecialEnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\SpecialEnd.xnb</Output>
+      <Time>2010-12-26T21:06:32.7372336-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricksContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-09T23:49:33.881375-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

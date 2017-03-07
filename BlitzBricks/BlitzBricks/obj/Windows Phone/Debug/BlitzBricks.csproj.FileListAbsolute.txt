@@ -1,0 +1,175 @@
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\AquaBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\BlueBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\ExtraLife.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GlassBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GreenBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Laser.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleGrow.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleLarge.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleNormal.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PurpleBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\RedBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\StoneBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\TripleThreat.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\YellowBrick.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\AppManifest.xaml
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml.g
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\XapCacheFile.xml
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.dll
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.pdb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.dll
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.pdb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.xap
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\AquaBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\BlueBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\ExtraLife.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GlassBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GreenBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Laser.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleGrow.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleLarge.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleNormal.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PurpleBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\RedBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\StoneBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\TripleThreat.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\YellowBrick.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.dll
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.pdb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.dll
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.pdb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.xap
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\XapCacheFile.xml
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SplashScreenImage.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\LaserBeam.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\NewBackground.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\newball.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SplashScreenImage.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\LaserBeam.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\newball.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\NewBackground.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\MessageArea.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleSmall.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\MessageArea.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleSmall.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PausedScreen.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPBlack.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWP.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPMessage.xnb
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationIcon.png
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationTile.png
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationIcon.png
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationTile.png
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPBlack.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWP.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPMessage.xnb
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PausedScreen.xnb
+bin\Windows Phone\Debug\ApplicationTile.png
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Level.xml
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Level.xml
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationIcon.png
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationTile.png
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Level.xml
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPBlack.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWP.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SegoeWPMessage.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\SplashScreenImage.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\LaserBeam.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\newball.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\NewBackground.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\MessageArea.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\AquaBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\BlueBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\ExtraLife.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GlassBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\GreenBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Laser.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleGrow.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleLarge.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleNormal.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PaddleSmall.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PurpleBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\RedBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\StoneBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\TripleThreat.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\YellowBrick.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\PausedScreen.xnb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.dll
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.pdb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.dll
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.pdb
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\AppManifest.xaml
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.xap
+E:\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationIcon.png
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\ApplicationTile.png
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.dll
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.pdb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.dll
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\BlitzBricks.pdb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\BlitzBricks.xap
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\BrickDefs.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level0.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level1.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level2.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level3.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level4.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level5.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level6.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Level7.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWPBlack.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWP.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\SegoeWPMessage.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Fonts\Control.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\LaserBeam.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\newball.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\NewBackground.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\MessageArea.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\AquaBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\BlueBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\GlassBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\GreenBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PaddleLarge.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PaddleNormal.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PurpleBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\RedBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\StoneBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\YellowBrick.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SplashScreen.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\ProgressBar.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\MenuScreen.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\UserScreen.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\PauseScreen.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\Sparkle.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\balllost3.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\LaserFiring.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\PaddleHit.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\WallHit.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\BrickBreak.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\NextLevel.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\Special.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Sounds\BrickHit.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SoundOff.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\SoundOn.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\Content\Images\Button.xnb
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Trial2.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Trial1.xml
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricks\bin\Windows Phone\Debug\LevelData\Trial0.xml

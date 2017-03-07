@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>SegoeWPBlack</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\SegoeWPBlack.xnb</Output>
+      <Time>2010-11-26T03:25:34.7571984-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Paused.spritefont</Source>
+      <Name>SegoeWP</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\SegoeWP.xnb</Output>
+      <Time>2010-11-30T01:35:19.7612239-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Message.spritefont</Source>
+      <Name>SegoeWPMessage</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\SegoeWPMessage.xnb</Output>
+      <Time>2010-11-30T01:52:09.1195758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreenImage.jpg</Source>
+      <Name>SplashScreenImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\SplashScreenImage.xnb</Output>
+      <Time>2010-11-24T17:42:39.1858763-06:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserBeam.png</Source>
+      <Name>LaserBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\LaserBeam.xnb</Output>
+      <Time>2010-11-25T01:30:30.8204381-06:00</Time>
+    </Item>
+    <Item>
+      <Source>newball.png</Source>
+      <Name>newball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\newball.xnb</Output>
+      <Time>2010-11-26T03:20:09.6006005-06:00</Time>
+    </Item>
+    <Item>
+      <Source>NewBackground.png</Source>
+      <Name>NewBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\NewBackground.xnb</Output>
+      <Time>2010-11-27T11:24:00.0999532-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageArea.png</Source>
+      <Name>MessageArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\MessageArea.xnb</Output>
+      <Time>2010-11-27T10:06:41.6081438-06:00</Time>
+    </Item>
+    <Item>
+      <Source>AquaBrick.png</Source>
+      <Name>AquaBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\AquaBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BlueBrick.png</Source>
+      <Name>BlueBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\BlueBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ExtraLife.png</Source>
+      <Name>ExtraLife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\ExtraLife.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GlassBrick.png</Source>
+      <Name>GlassBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\GlassBrick.xnb</Output>
+      <Time>2010-11-27T12:17:18.9189247-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GreenBrick.png</Source>
+      <Name>GreenBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\GreenBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.png</Source>
+      <Name>Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\Laser.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PaddleGrow.png</Source>
+      <Name>PaddleGrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PaddleGrow.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PaddleLarge.png</Source>
+      <Name>PaddleLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PaddleLarge.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PaddleNormal.png</Source>
+      <Name>PaddleNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PaddleNormal.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PaddleSmall.png</Source>
+      <Name>PaddleSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PaddleSmall.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PurpleBrick.png</Source>
+      <Name>PurpleBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PurpleBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>RedBrick.png</Source>
+      <Name>RedBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\RedBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>StoneBrick.png</Source>
+      <Name>StoneBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\StoneBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TripleThreat.png</Source>
+      <Name>TripleThreat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\TripleThreat.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>YellowBrick.png</Source>
+      <Name>YellowBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\YellowBrick.xnb</Output>
+      <Time>2010-11-27T11:39:18.1719556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PausedScreen.png</Source>
+      <Name>PausedScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\PausedScreen.xnb</Output>
+      <Time>2010-11-29T22:13:15.5587466-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\</RootDirectory>
+      <LoggerRootDirectory>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\</LoggerRootDirectory>
+      <IntermediateDirectory>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-09T23:49:33.881375-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

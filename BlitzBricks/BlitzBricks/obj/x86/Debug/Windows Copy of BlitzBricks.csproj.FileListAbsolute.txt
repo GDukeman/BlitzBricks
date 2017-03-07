@@ -1,0 +1,2 @@
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

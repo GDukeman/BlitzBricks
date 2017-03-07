@@ -1,0 +1,58 @@
+﻿
+<!-- Data Structure (int)Row, (int)Col, (String)Resource Name, (int)HitPoints, (int)SpecialCode -->
+<!-- BrickDef Structre (string)Resource Name, (bool)Affected by Laser
+-->
+<XNAContent>
+    <Asset Type="System.String">
+      <!-- Defines the brick types used in this level set-->
+      <MaxLevel>12</MaxLevel>
+      <BrickDefs>
+        <Def>
+          <BDName>YellowBrick</BDName>
+          <Points>5</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>GreenBrick</BDName>
+          <Points>5</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>AquaBrick</BDName>
+          <Points>5</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>BlueBrick</BDName>
+          <Points>10</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>PurpleBrick</BDName>
+          <Points>10</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>RedBrick</BDName>
+          <Points>10</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>StoneBrick</BDName>
+          <Points>100</Points>
+          <Laser>true</Laser>
+        </Def>
+        <Def>
+          <BDName>GlassBrick</BDName>
+          <Points>50</Points>
+          <Laser>false</Laser>
+        </Def>
+        <Def>
+          <BDName>IronBrick</BDName>
+          <Points>1000</Points>
+          <Laser>true</Laser>
+        </Def>
+      </BrickDefs>
+      <!-- Defines each level in the game -->
+    </Asset>
+</XNAContent>

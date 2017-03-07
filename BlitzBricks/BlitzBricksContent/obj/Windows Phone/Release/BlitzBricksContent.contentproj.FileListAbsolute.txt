@@ -1,0 +1,3 @@
+C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
