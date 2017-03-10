@@ -1,4 +1,0 @@
-\\DADDY-PC\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
-C:\Users\Daddy\Documents\Visual Studio 2010\Projects\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
-E:\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
-C:\Users\Daddy\Desktop\BlitzBricks\BlitzBricks\BlitzBricksContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
